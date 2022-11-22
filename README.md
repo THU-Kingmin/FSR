@@ -1,2 +1,2 @@
 # FSR
-Code will be iploaded soon!
+Code will be uploaded soon!
