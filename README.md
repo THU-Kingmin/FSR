@@ -1,6 +1,12 @@
 # FSR: A General Frequency-Oriented Framework to Accelerate Image Super-resolution Networks
 This is the PyTorch implementation of paper: FSR (AAAI 2023 Oral).
 
+<img src="/Users/lijinmin/code/FSR/FSR/imgs/time-flops.png" alt="time-flops" style="zoom:40%;" />
+
+## Framework
+
+![arch](/Users/lijinmin/code/FSR/FSR/imgs/arch.png)
+
 ## Dependencies
 
 - Python >= 3.6 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
@@ -28,7 +34,12 @@ cd codes
 python test.py --whichModule fsrcnn 
 # whichModule, choices=['fsrcnn','carn','srresnet','rcan']
 ```
+## Result
+
+![psnr-ssim](/Users/lijinmin/code/FSR/FSR/imgs/psnr-ssim.png)
+
 ## Acknowledgement
+
 - The code is based on [BasicSR](https://github.com/xinntao/BasicSR), with reference of [ClassSR](https://github.com/XPixelGroup/ClassSR).
 
 ## Contact
