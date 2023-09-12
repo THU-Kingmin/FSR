@@ -1,5 +1,5 @@
 # FSR: A General Frequency-Oriented Framework to Accelerate Image Super-resolution Networks
-This is the PyTorch implementation of paper: FSR (AAAI 2023 Oral).
+This is the PyTorch implementation of paper: [FSR (AAAI 2023 Oral)](https://ojs.aaai.org/index.php/AAAI/article/view/25218).
 
 <img src="./imgs/time-flops.png" alt="time-flops" style="zoom:40%;" />
 
